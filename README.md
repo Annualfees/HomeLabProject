@@ -1,2 +1,3 @@
 # HomeLabProject
-my home lab equipment and set up
+This is my HomeLab project
+Sharing pictures configurations and how-to on my set up
