@@ -1,2 +1,2 @@
 # HomeLabProject
-my home lab equipment and set
+my home lab equipment and set up
